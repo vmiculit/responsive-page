@@ -1,0 +1,31 @@
+/*Responsive Page Style Sheet*/
+
+/*NAV BAR*/
+
+.navigation-container {
+	display: inline-block;
+	width: 100vw;
+	text-align: center;
+}
+
+.navigation {
+	display: inline-block;
+	background: salmon;
+	text-align: center;
+	border-radius: 10px;
+	width: 60vw;
+	font-size: 16px;
+	font-weight: bold;
+	color:	white;
+	margin-top: 10px;
+
+}
+
+.navigation ul {
+	padding-left: 0px;
+}
+
+.navigation li {
+	display: inline-block;
+	padding: 0px 15px 0px 15px;
+}
