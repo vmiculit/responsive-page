@@ -8,6 +8,7 @@
 	top: 0;
 	left: 0;
 	text-align: center;
+	overflow-y: auto;
 }
 
 .main-content-container {
