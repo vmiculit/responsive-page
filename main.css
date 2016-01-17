@@ -1,29 +1,20 @@
 /*Responsive Page Style Sheet*/
 
-.canvas {
+body {
 	background: beige;
-	height: 100vh;
-	width: 100vw;
-	position: fixed;
-	top: 0;
-	left: 0;
-	text-align: center;
-	overflow-y: auto;
 }
 
 .main-content-container {
-	display: inline-block;
+	text-align: center;
 	max-width: 960px;
 	text-align: center;
 	background: peachpuff;
 	padding-bottom: 16px;
+	padding-top: 1px;
+	margin: auto;
 }
 
 /*NAV BAR*/
-
-.navigation-container {
-
-}
 
 .navigation {
 	background: salmon;
@@ -49,15 +40,8 @@
 
 }
 
-.large-image {
-
-}
 .large-image img {
 	width: 100%;
-}
-
-.small-images {
-
 }
 
 /*MEDIA QUERIES*/
